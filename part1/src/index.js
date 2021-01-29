@@ -53,7 +53,5 @@ const App = () => {
 	  </div>
 	)
   }
-  
-// test
 
   ReactDOM.render(<App />, document.getElementById('root'))
